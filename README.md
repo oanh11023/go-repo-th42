@@ -1,3 +1,5 @@
 # go-repo-th42
 
-Along coach certain type.
+This is a sample project written in **Javascript**.
+
+Generated automatically.
