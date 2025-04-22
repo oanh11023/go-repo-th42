@@ -1,3 +1,2 @@
-module github.com/example/project
-
-go 1.18
+# Configuration or requirements
+# Add dependencies or settings here
